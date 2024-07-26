@@ -1,0 +1,27 @@
+
+:root {
+    --color-white: #FFFFFF;
+    --color-black : #000000;
+    --color-primary: #293264;
+    --color-secondary: #4D5B9E;
+    --color-lemony: #FFFAD1;
+    --color-baby-blue-medium: #DEEBF8;
+    --color-baby-blue-dark: #DBDEF0;
+    --color-baby-blue-light: #F5F7FB;
+    --color-green-success: #94D7A2;
+    --color-red-failed: #F8BCBC;
+  
+    --font-family-primary: "Karla", sans-serif;
+    --font-family-secondary: "Inter", sans-serif;
+  
+    --font-size-normal: 16px;
+  
+    --font-weight-normal: 400;
+    --font-weight-bold: 700;
+  
+  }
+
+body {
+    background-color: var(--color-baby-blue-light);
+    color: var(--color-primary);
+}
